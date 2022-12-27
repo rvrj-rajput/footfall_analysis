@@ -1,0 +1,1 @@
+A computer vision application that tracks the audience as they enter the store, keeping a log of their activities and analyzing the person's experience as they enter and exit the store using video input.
